@@ -34,7 +34,7 @@
    <h1> Thankyou, Happy Learning </h1>
    <h1> Build and deploy code on Tomcat server once the change in git is done </h1>
    <h1> Automcatically triggering build pipeline after making git change </h1>
-   <h1> Automcatically triggering build to copy war file on docker and creating image and containers version 1 </h1>
+   <h1> Automcatically triggering build to copy war file on docker and creating image and containers version 2 </h1>
 
 
 </form>
